@@ -1,5 +1,10 @@
 # 📈 Stock Price Prediction Using Machine Learning
 
+## Live Demo
+
+Try the application here:
+https://stock-price-prediction-jidutdaoe6qw4soyjzyxud.streamlit.app/
+
 ## About the Project
 
 This project uses machine learning to analyze historical stock market data and estimate the next trading day's closing price of Reliance Industries.

@@ -1,0 +1,22 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+
+# Downloaded and generated datasets
+data/*.csv
+data/*.pkl
+
+# Saved machine learning models
+models/*.pkl
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
